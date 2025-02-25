@@ -1,5 +1,12 @@
 # Blackjack Highest
 
+## How to
+
+Clone the repository using the template function and create youre own repository and submit that when you're happy with
+you're code :D
+
+## Rules
+
 Have the function `blackjackHighest(strArr)` take the strArr parameter being passed which will be an array of numbers
 and letters representing blackjack cards. Numbers in the array will be written out. So for example strArr may be
 `["two","three","ace","king"]`. The full list of possibilities for strArr is: two, three, four, five, six, seven, eight,
