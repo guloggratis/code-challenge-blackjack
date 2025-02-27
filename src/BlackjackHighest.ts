@@ -1,3 +1,3 @@
-export function blackjackHighest(dealedCards: string[]) {
-    // Todo
+export function blackjackHighest(dealedCards) {
+  // Todo
 }
